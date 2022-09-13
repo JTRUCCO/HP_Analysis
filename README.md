@@ -2,8 +2,26 @@
 ## Overview
 The purpose of the analysis was to predict the retirement of numerous employees at the Pewlett Hackard company. This was accomplished by analyzing an employee database and establishing the number of retiring employees by each job title and identifying employees who qualify to participate in a mentorship program
 
+-Identifying the retireing employees by their title 
+- Determining the sum of retiring employees grouped by title 
+-Indetifying the employees elegible for preticipation in the mentorship program 
+- determining the number of roles to fill grouped by title and department 
+-determine the number of qualified, retirement ready employees to mentior the next genaration grouped by title and department
+
+1. The list of retiring employees
+
+The table includes employee number, first name, last name, title, from-date and to-date.
+The table displays a list of employees who is going to retire in the next few years.
+The list is long and extensive, yet at-a-glance analysis gives us some insights about the query. Some employees appear more than once due to change of title during their career at Pewlett-Hackard.
+
 
 ## Results<br>
+
+The table includes employee number, first name, last name, title, from-date and to-date.
+The table displays a list of employees who is going to retire in the next few years.
+The list is long and extensive, yet at-a-glance analysis gives us some insights about the query. Some employees appear more than once due to change of title during their career at Pewlett-Hackard.
+
+
 #### Retirement Titles
 <img src= ">
 
