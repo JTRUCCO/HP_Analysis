@@ -23,16 +23,16 @@ The list is long and extensive, yet at-a-glance analysis gives us some insights 
 
 
 #### Retirement Titles
-<img src= ">
+![Alt text](Retirement_Titles.png)
 
 #### Unique Titles
-<img src= "">
+![Alt text](Unique_Titles.png)
 
 #### Retiring Titles
-<img src= "">
+![Alt text](Retiring_Titles.png)
 
 #### Mentorship Eligibility
-<img src= "
+![Alt text](Mentorship Eligibility.png)
 - Senior Engineer, Senior Staff, and Engineer lose the most employees to retirement
 - Managers lose the least amount of employees to retirement
 - 64% of retiring employees (Senior Engineer & Senior Staff) carry senior titles
@@ -44,9 +44,9 @@ The list is long and extensive, yet at-a-glance analysis gives us some insights 
 - With 1,549 eligible mentors, the company will struggle to mentor the next generation of employees. However, there are other factors involved in this process that could influence the success or failure but the current ratio of eligible mentors to roles needed filled is not promising. There is ambiguity in what is involved in the mentoring process and how much time and resources are devoted to mentoring a new employee
 
 #### Titles Count
-<img src= "" height= "475" width="500"><br>
+![Alt text](Titles_Count.png)
 - 443,308 total 
 
 #### Eligible Mentors
-<img src= "" height= "475" width="500"><br>
+![Alt text](Eligible_Mentors.png)
 - 1,549 eligible mentors
