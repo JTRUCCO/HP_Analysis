@@ -23,13 +23,13 @@ The list is long and extensive, yet at-a-glance analysis gives us some insights 
 
 
 #### Retirement Titles
-![Alt text](https://github.com/JTRUCCO/HP_Analysis/Retirement_Titles.png)
+![Alt text](https://raw.githubusercontent.com/JTRUCCO/HP_Analysis/main/Retirement_Titles.png)
 
 #### Unique Titles
-![Alt text](https://github.com/JTRUCCO/HP_Analysis/Unique_Titles.png)
+![Alt text](https://raw.githubusercontent.com/JTRUCCO/HP_Analysis/main/Unique_Titles.png)
 
 #### Retiring Titles
-![Alt text](https://github.com/JTRUCCO/HP_Analysis/Retiring_Titles.png)
+![Alt text](https://raw.githubusercontent.com/JTRUCCO/HP_Analysis/main/retiring_titles.png)
 
 #### Mentorship Eligibility
 
