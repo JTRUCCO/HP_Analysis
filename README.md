@@ -23,7 +23,7 @@ The list is long and extensive, yet at-a-glance analysis gives us some insights 
 
 
 #### Retirement Titles
-![Alt text](https://raw.githubusercontent.com/JTRUCCO/HP_Analysis/blob/main/Retirement_titles.png)
+![Alt text](https://github.com/JTRUCCO/HP_Analysis/blob/main/Retirement_titles.png)
 
 #### Unique Titles
 ![Alt text](https://github.com/JTRUCCO/HP_Analysis/blob/main/unique_titles.png)
